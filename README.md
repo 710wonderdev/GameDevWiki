@@ -1,5 +1,5 @@
 ---
-![Pink Cute Anime Gaming Livestream Twitch Banner](https://user-images.githubusercontent.com/76666576/148480100-1e8fdf4d-7cdc-4801-8dd8-6cd3ced17237.png)
+coverY: 0
 ---
 
 # 🕹 Welcome Gamers!
