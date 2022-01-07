@@ -10,7 +10,7 @@ description: >-
 # 🕹 Game Dev Contacts!
 
 {% hint style="warning" %}
-IMPORTANT\*\*:\*\* Do not abuse this list. Conduct yourselves with professionalism. Be courteous. These developers have opted to volunteer their time when they are able to answer questions you might have about what they do. Do not be afraid to talk to them, but make sure you respect this opportunity.
+IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be courteous. These developers have opted to volunteer their time when they are able to answer questions you might have about what they do. Do not be afraid to talk to them, but make sure you respect this opportunity.
 {% endhint %}
 
 ## 3D ART
@@ -378,7 +378,7 @@ IMPORTANT\*\*:\*\* Do not abuse this list. Conduct yourselves with professionali
 ## TECH ANIMATION, ART, DESIGN, & WRITING
 
 {% hint style="success" %}
-**Good to know:** These roles the gap between the issues of the creative, programming and engineering teams in game development
+**Good to know:** These roles bridge the gap between issues of the creative, programming, and engineering teams in game development
 {% endhint %}
 
 👋 Dan Paynter — :joystick: [@PolyPaynt](https://twitter.com/polypaynt) — Saterpillar Inc — 3D Artist
