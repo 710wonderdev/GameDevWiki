@@ -5,6 +5,6 @@
 * [🕹 Welcome Gamers!](README.md)
 * [⭐ Vision and Values](game-professionals/vision-and-values.md)
 
-## 🎮 Game Professionals
+## 🎮 Game RESOURCES
 
-* [🕹 Game Dev Contacts!](game-professionals-1/game-dev-contacts.md)
+* [🕹 Game Dev Contacts!](game-resources/game-dev-contacts.md)
