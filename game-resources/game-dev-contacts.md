@@ -47,9 +47,21 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 
 👋 Dan Paynter — :joystick: [@PolyPaynt](https://twitter.com/polypaynt) — Saterpillar Inc — 3D Artist
 
-👋 Manuel Rondon — :joystick: [@MR3Dev](https://twitter.com/mr3dev) — 3D Artist/Teacher
+👋 Lucas Silva — :joystick: [@lucasemsilva1](https://twitter.com/lucasemsilva1) — Afterverse — Lead 3D Artist
 
-👋 Veronika — :joystick: [@yuki\_raito](https://mobile.twitter.com/yuki\_raito) — Spicy Sushi Games — 3D Artist
+👋 Maya Sternberg — :joystick: [@mayartist\_](https://twitter.com/mayartist\_?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Apple — 3D Artist
+
+👋 Paco Casares — :joystick: [@Paco3DArt](https://mobile.twitter.com/paco3dart) — AIE — 3D Artist
+
+👋 Mikael Karnell — :joystick: [@mikhga](https://mobile.twitter.com/mikhga) — EA DICE — Senior Art Craft Manager
+
+👋 Jeremy Wynn — :joystick: [@jeremypwynn](https://twitter.com/jeremypwynn) — HakJak Studios — Lead 3D Artist
+
+👋 Michael Combs — :joystick: [@SparkyPants90](https://twitter.com/sparkypants90) — Imaginary Lights — 3D Modeler/Library Manager
+
+👋 Oscar Aguirre — :joystick: [@Oscreat](https://twitter.com/oscreat) — Respawn — Lead Hard Surface Artist
+
+👋 Casey Addler — :joystick: [@CaseyNotJones](https://twitter.com/CaseyNotJones) — Psyonix — Senior 3D Artist
 
 ## AI PROGRAMMING
 
@@ -97,6 +109,14 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 
 👋 Aaron Simon — :joystick: [@aaron\_simon2d](https://twitter.com/aaron\_simon2d) — CerebralFix — 2D generalist/Animator
 
+👋 Ben Sadler — :joystick: [@TubbinSauce](https://twitter.com/tubbinsauce) — PlayStation — Animator
+
+👋 Euna Park — :joystick: [@efparkery](https://twitter.com/efparkery?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Sony Santa Monica — Gameplay Animator
+
+👋 Lisa Murray — :joystick: [@lisa\_anim](https://twitter.com/lisa\_anim) — Super Spline Studios — Animator
+
+👋 Duncan Pogson — :joystick: [@Duncan\_Pogson](https://twitter.com/duncan\_pogson?lang=en) — Playground Games — Gameplay Animator
+
 ## ART DIRECTION
 
 {% hint style="success" %}
@@ -115,7 +135,11 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 
 👋 Jason Hickey — :joystick: [jason00hickey](https://www.linkedin.com/in/jason00hickey/) — Insomniac Games — Technical Creative Director
 
-👋 Jarrod Clardie — :joystick: jclardie@yahoo.com — KingArt Games — Art Director
+👋 Jarrod Clardie — :joystick: [@jayclardie](https://twitter.com/jayclardie) — KingArt Games — Art Director
+
+👋 Sean Marino — :joystick: [@oniram177](https://twitter.com/oniram177?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Riot Games — Associate Art Director
+
+👋 Brendon Bauman — :joystick: [@DoodleViking](https://twitter.com/doodleviking) — Ubisoft — Head of Characters
 
 ## AUDIO
 
