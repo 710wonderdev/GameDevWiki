@@ -159,6 +159,12 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 
 👋 Jake Gaule — :joystick: [@submergedtapes](https://twitter.com/submergedtapes) — Freelance — Sound Designer/Composer
 
+👋 Casey Coffman — :joystick: [@CoffmanAudio](https://twitter.com/coffmanaudio) — Bethesda Studios — Sound Designer
+
+👋 Kieran Fitzpatrick — :joystick: [@kjfsound](https://twitter.com/kjfsound) — Hypixel Studios — Audio Director
+
+👋 Ashton Faydenko — :joystick: [@faydenko](https://twitter.com/faydenko) — Respawn — Associate Sound Designer
+
 ## BRAND MANAGEMENT
 
 {% hint style="success" %}
@@ -175,13 +181,21 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 
 👋 Alex — :joystick: [@thatwouldbealex](https://twitter.com/thatwouldbealex?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Analog Biz Dev — Owner of Biz Dev Consultancy
 
+## BUILD & RELEASE
+
+{% hint style="success" %}
+**Good to know:** Responsible for helping to generate new revenue streams for the business by identifying new opportunities and building partnerships with other companies.
+{% endhint %}
+
+👋 Tyler Owens — :joystick: [@heytred](https://twitter.com/heytred?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Respawn Entertainment/EA — Build & Release Engineer
+
 ## CAPTURE ART
 
 {% hint style="success" %}
 **Good to know:** Capture artists are **r**esponsible for capturing still footage of gameplay for use in marketing campaigns as well as in the games themselves. In essence, this process is shooting photography in a virtual 3D game environments.
 {% endhint %}
 
-👋 Josef Griffiths — :joystick: [@\_JosefGriffiths](https://twitter.com/\_JosefGriffiths) — Frontier — Capture Artist
+👋 Josef Griffiths — :joystick: [@\_JosefGriffiths](https://twitter.com/\_JosefGriffiths) — Frontier Developments — Capture Artist
 
 ## CHARACTER ART
 
@@ -225,6 +239,16 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 
 👋 Adam Beardall — :joystick: [@AdamBeardall](https://mobile.twitter.com/adambeardall) — Bungie — Character Artist
 
+👋 Flavia — :joystick: [@flavia\_heinlein](https://www.artstation.com/flavia\_heinlein) — Deep Silver Fishlabs — Character Artist
+
+👋 Amanda E Surowka — :joystick: [@AE\_Surowka](https://twitter.com/ae\_surowka) — Untamed Isles — 3D Generalist
+
+👋 Lauren Lapierre Armande — :joystick: [@aparaitre](https://twitter.com/aparaitre) — NaturalMotion — Character Artist
+
+👋 Conor Jordan — :joystick: [@theconorrdudee](https://twitter.com/theconorrdudee) — Freelance — Character Artist
+
+👋 Aitor Ansio — :joystick: [@aitoransio](https://twitter.com/aitoransio) — Freelance — 3D Character Artist
+
 ## CINEMATIC
 
 {% hint style="success" %}
@@ -243,7 +267,29 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 **Good to know:** Community management in video games is a new way to think about the communication between a publisher or developer and its customers.
 {% endhint %}
 
-👋 Dan Paynter — :joystick: [@PolyPaynt](https://twitter.com/polypaynt) — Saterpillar Inc — 3D Artist
+👋 Cosima — :joystick:[ @Cosimania](https://twitter.com/Cosimania?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Happy Volcano — Community & Social Media Manager
+
+👋 Carolin — :joystick: [@coshy\_90](https://twitter.com/coshy\_90) — CDProjektRed — Community Manager
+
+👋 Eltanin — :joystick: [@seasaltpopsicle](https://twitter.com/seasaltpopsicle?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Frontier Developments — Community
+
+👋 C.J. — :joystick: [@CrazeeJay](https://twitter.com/crazeejay) — Freelance — Community Manager
+
+👋 Mouse — :joystick: [@MouselsTaken](https://twitter.com/mouseistaken) — Bonsai Games — Community Manager
+
+👋 Smanath Gee — :joystick: [@SmanathGee](https://mobile.twitter.com/SmanathGee) — Saterpillar Inc — Community Manager
+
+👋 Kole — :joystick: [@Isa\_Kole](https://twitter.com/Isa\_Kole?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Poorly Timed Game — Marketing & Community Manager
+
+👋 Kal — :joystick: [@kalobrien](https://mobile.twitter.com/kalobrien) — Unity — Community Engagement Manager
+
+👋 Keith Muelas — :joystick: [@Bighungry2x](https://twitter.com/Bighungry2x?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Saterpillar Inc — Community Manager
+
+👋 Catherine Litvaitis — :joystick: [@LitvacArt](https://twitter.com/LitvacArt?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) — Armor Games Studios — Marketing & Community Manager
+
+👋 Kierstin Gee — :joystick: [@kierpanda](https://twitter.com/kierpanda) — Intel — Marketing & Community Manager
+
+👋 Robert Allen Peeler — :joystick: [@popcicle](https://twitter.com/popcicle) — Unbroken Studios — Producer & Community Manager
 
 ## CONCEPT ART
 
