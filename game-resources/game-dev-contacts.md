@@ -337,7 +337,7 @@ IMPORTANT: Do not abuse this list. Conduct yourselves with professionalism. Be c
 **Good to know:** A game engineer is a software developer that produces video games. As a game engineer, your duties may be in any phase of the game design process. You typically work as part of a large team of engineers, designers, and programmers, carrying out the visual and functional aspects of the video game.
 {% endhint %}
 
-👋 Elisabeth Pring — :joystick: [elisabethpring](https://www.linkedin.com/in/elisabethpring/) — Nintendo — Engineer & Game Developer
+👋 Elisabeth Pring — :joystick: [elisabethpring](https://www.linkedin.com/in/elisabethpring/) — Nintendo — Software Engineer & Game Developer
 
 👋 Markus D — :joystick: [@\_MarkLab](https://twitter.com/\_marklab) — Bossa Games — Principal Game Architect & Lead Developer
 
